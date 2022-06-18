@@ -89,5 +89,3 @@ randomBtn.addEventListener("click", function () {
   console.log(currentItem);
   showPerson(currentItem);
 });
-
-console.log(Math.floor(Math.random() * (5 - 1)) + 1);
